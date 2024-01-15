@@ -1,8 +1,8 @@
 # UAS Dreaming Apps
 
-`Nama  : Faizah Via Fadhillah`
+`Nama  : Diska Kurnia Azzahra Putra`
 
-`Nim   : 312210460`
+`Nim   : 312210369`
 
 `Kelas : TI22.A4`
 
@@ -20,7 +20,7 @@
 
 ### activity_launcer_splash_logo.xml:
 
-- Layout MotionLayout dengan dua elemen utama:
+⦁ Layout MotionLayout dengan dua elemen utama:
 
   - ConstraintLayout backgroundLayout sebagai latar belakang.
   - ImageView blueLogo untuk menampilkan logo aplikasi.
@@ -177,7 +177,3 @@ URI video diperoleh dari informasi yang dikirimkan melalui Intent atau secara st
 ### Kesimpulan:
 
 Penggunaan Tab Activity, Fragment, dan ExoPlayer meningkatkan pengalaman pengguna dengan menyediakan antarmuka yang terstruktur, modular, dan memungkinkan pemutaran video yang dikelola dengan baik.
-
-# Demo Dreaming Apps
-
-https://github.com/FaizahviaFadhillah/DreamingApps_Uas/assets/115614125/d13874d8-9111-4c53-8957-a613236cf966
